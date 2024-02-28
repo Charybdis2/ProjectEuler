@@ -9,7 +9,7 @@ I'm trying to compelete the first 100 problems in both java and python.
 
 | Problem | Java | Python |
 |---------|------|--------|
-| Problem 1  |      |        |
+| Problem 1  |   p001.java   |        |
 | Problem 2  |      |        |
 | Problem 3  |      |        |
 | Problem 4  |      |        |
