@@ -9,11 +9,11 @@ I'm trying to compelete the first 100 problems in both java and python.
 
 | Problem | Java | Python |
 |---------|------|--------|
-| Problem 1  |   p001.java   |        |
+| Problem 1  |   [p001.java](https://github.com/Charybdis2/ProjectEuler/blob/main/JavaProblems/p001.java)   |        |
 | Problem 2  |   p002.java   |        |
 | Problem 3  |   p003.java   |        |
 | Problem 4  |   p004.java   |        |
-| Problem 5  |      |        |
+| Problem 5  |   p005.java   |        |
 | Problem 6  |      |        |
 | Problem 7  |      |        |
 | Problem 8  |      |        |
