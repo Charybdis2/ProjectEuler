@@ -12,7 +12,7 @@ I'm trying to compelete the first 100 problems in both java and python.
 | Problem 1  |   p001.java   |        |
 | Problem 2  |   p002.java   |        |
 | Problem 3  |   p003.java   |        |
-| Problem 4  |      |        |
+| Problem 4  |   p004.java   |        |
 | Problem 5  |      |        |
 | Problem 6  |      |        |
 | Problem 7  |      |        |
