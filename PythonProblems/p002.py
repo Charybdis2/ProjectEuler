@@ -1,4 +1,7 @@
-def sum_of_even_fibonacci(limit):
+'''
+Basic approach
+'''
+def sumOfEvenFib(limit):
     """
     Calculate the sum of even-valued Fibonacci numbers that do not exceed the given limit.
 
@@ -16,5 +19,16 @@ def sum_of_even_fibonacci(limit):
         a, b = b, a + b
     return total
 
+'''
+Optimised Version
+'''
+def sumOfEvenFibOP(limit):
+    a, b = 2, 8  
+    total = a
 
+    while b < limit:
+        total += b
+        a, b = b, 4 * b + a  
+
+    return total
 
