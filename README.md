@@ -16,7 +16,7 @@ I'm trying to compelete the first 100 problems in both java and python.
 | Problem 5  |   p005.java   |        |
 | Problem 6  |   [p006.java](https://github.com/Charybdis2/ProjectEuler/blob/main/JavaProblems/p006.java)   |        |
 | Problem 7  |      |        |
-| Problem 8  |      |  p008.py      |
+| Problem 8  |      |  [p008.py](https://github.com/Charybdis2/ProjectEuler/blob/main/PythonProblems/p008.py)      |
 | Problem 9  |      |        |
 | Problem 10 |      |        |
 | Problem 11 |      |        |
