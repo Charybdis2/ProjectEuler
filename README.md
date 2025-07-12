@@ -9,14 +9,14 @@ I'm trying to compelete the first 100 problems in both java and python.
 
 | Problem | Java | Python |
 |---------|------|--------|
-| Problem 1  |   [p001.java](https://github.com/Charybdis2/ProjectEuler/blob/main/JavaProblems/p001.java)   |        |
-| Problem 2  |   p002.java   |        |
+| Problem 1  |   [p001.java](https://github.com/Charybdis2/ProjectEuler/blob/main/JavaProblems/p001.java)   |   [p001.py](https://github.com/Charybdis2/ProjectEuler/blob/main/PythonProblems/p001.py)     |
+| Problem 2  |   p002.java   |  [p002.py](https://github.com/Charybdis2/ProjectEuler/blob/main/PythonProblems/p002.py)      |
 | Problem 3  |   p003.java   |        |
 | Problem 4  |   p004.java   |        |
 | Problem 5  |   p005.java   |        |
 | Problem 6  |   [p006.java](https://github.com/Charybdis2/ProjectEuler/blob/main/JavaProblems/p006.java)   |        |
 | Problem 7  |      |        |
-| Problem 8  |      |        |
+| Problem 8  |      |  p008.py      |
 | Problem 9  |      |        |
 | Problem 10 |      |        |
 | Problem 11 |      |        |
